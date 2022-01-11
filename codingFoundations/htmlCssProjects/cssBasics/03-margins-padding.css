@@ -1,0 +1,51 @@
+.title {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid blue;
+  
+
+   /* margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px; */
+    margin: 50px 250px 200px 200px;
+    padding: 20px 20px 20px 40px;
+}
+
+p {
+    height: 40px;
+    background-color: rebeccapurple;
+    color: white;
+    border: 5px solid pink;
+}
+
+#margin-experiment-1, #margin-experiment-2 {
+    margin: 0;   
+}
+.margin-experiment-3 {
+    margin: 5px 10px 20px 0;
+    padding: 10px /*writing 10px once makes all sides 10px */;
+    background-color: navy;
+ 
+}
+.padded-container {
+    border: 2px solid red;
+    margin: 50px;
+    padding: 20px 20px 30px 40px;
+
+}
+#padding-experiment-1 {
+    border: 2px solid yellow; 
+    margin: 50px;
+    padding: 20px;
+    background-color: lightsalmon;
+
+}
+#padding-experiment-2 {
+    border:5px;
+    margin:30px;
+    padding:10px;
+    background-color: lightpink;
+}

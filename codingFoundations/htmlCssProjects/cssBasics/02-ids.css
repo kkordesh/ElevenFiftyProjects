@@ -1,0 +1,19 @@
+#number-one {
+color: blue
+}
+
+#number-two {
+    font-size: 20px
+}
+
+.first-class {
+color: purple
+}
+
+p, h1 {
+    color: red;
+}
+
+.second-class {
+    text-decoration: underline
+}

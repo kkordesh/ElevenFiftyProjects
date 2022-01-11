@@ -1,0 +1,21 @@
+body {
+    background-color: lightpink;
+}
+
+.css-class {
+    background-color: lightblue;
+    font: size 18pt;
+}
+
+.css-class h1 {
+    font-size: 18px;
+}
+
+.css-class p {
+    font-size:16px;
+    color:darkblue
+}
+
+.css-class li {
+    color: darkgreen
+}

@@ -1,0 +1,127 @@
+body {
+    background-color: skyblue;
+    background-image: url(.//assets/greywp.png.crdownload);
+    background-size: 100%;
+}
+
+
+header {
+    background-image: url(./assets/sockbg.png);
+   
+    height:300px;
+}
+
+
+nav {
+    color: black;
+    font-size:2em;
+    margin: 1em}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0;
+}
+
+nav li a, nav li a:visited{
+text-decoration: none;
+color:black;
+padding:.5em;
+}
+
+nav li a:hover{
+    color: black;
+    background-color:white;
+    border: 5; 
+}
+
+#topnav {
+    text-align: end;
+    list-style-position: inside;
+    font-size: 12pt;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;   
+    
+
+}
+
+#fsm {
+    width: 50rem;
+background-color: white;
+}
+
+#fsm h2{
+font-size: 30pt;
+margin: 5px;
+font-family: cursive;
+}
+
+
+#fsm h1{
+    font-size: 40pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 5px;
+    text-align: center;
+}
+
+#fsm h3{
+    font-family: cursive;
+    margin: 5px;
+    text-align: end;
+}
+
+
+section#sidebar {
+    width: 14rem;
+    float:left;
+    background-color: white;
+    position: relative;
+    margin: 1.5em 0 3.0em 1.5em;
+    padding: 1.7em .5em 2.0em 1.7em;
+}
+
+section#main {
+margin: 0 0 2.0em;
+padding: 1.5em 1.5em 2.0em 0;
+display: inline-block;
+font-family: Arial, Helvetica, sans-serif
+}
+
+#main h1 {
+    font-size: 30pt;
+    margin: 1rem;
+    background-color: lightpink;
+}
+
+section div.panel{
+    font-size: 10pt;
+    float: right;
+    position: relative; 
+    margin: 3rem;
+    margin-top: 1rem;
+    border: lightpink double 2px;
+    background-color: lightpink;
+
+}
+footer {
+    font-size: 1em;
+    text-align: center;
+    padding: 1.5em 2.0em;
+    height: 1rem;
+}
+
+footer ul#webFooter {
+    display: inline-block;
+
+}
+
+footer ul li {
+    display:inline-block;
+    margin: 1rem;
+
+}

@@ -1,0 +1,25 @@
+body {
+    background-image: url(".//assets3/sky.png");
+}
+    
+.class-one {
+    background-color: lightpink;
+    border: double purple 5px;
+    font-family: 'Times New Roman', Arial, serif;
+    font-size: 20px;
+    width: 40%;
+    height: 40%;
+    margin: 100px 100px;
+    padding: 20px 30px 30px 20px;
+}
+
+#id-one {
+    color: darkblue;
+    font-family: fantasy;
+}
+
+
+#id-two {
+    color: darkgreen;
+    font-family: cursive;
+}
